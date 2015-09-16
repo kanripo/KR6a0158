@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:07.865953
+#+DATE: 2015-08-30 19:33:09.496185
 #+TITLE: 三法度論
 #+PROPERTY: CBETA_ID T25n1506
 #+PROPERTY: ID KR6a0158
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1506
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6a0158_T_001-0015c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1506[No.1505]¶
-
- 《三法度論》卷上¶
+No. 1506 [No. 1505]¶
+《三法度論》卷上¶
 ¶
 東晉罽賓三藏瞿曇僧伽提婆譯¶
 
-1德品
-:PROPERTIES:
-:head: 德品第一
-:END:
-¶
+德品第一¶
 
 #+BEGIN_VERSE
 「　知生苦無量
@@ -110,7 +105,7 @@ No.1506[No.1505]¶
 
 問云何戒。答戒者身口二攝他不嬈。饒益戒¶
 者有三相。從身口生。問此云何。答攝他不嬈¶
-他。及饒益攝他者。飢乏時眾生愛命恕己不¶
+他。及饒益攝他者。飢乏時眾生愛命恕已不¶
 害。離他財他妻亦如是。此是攝他。離兩舌¶
 惡口妄言綺語。是不嬈他。復次七枝不逼¶
 他。是不嬈他。眾苦所逼。無所歸依。而救濟¶
